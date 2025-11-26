@@ -27,4 +27,4 @@ each column corresponds to a characteristic of that diamonds. The characteristic
   
   This is the python script used to generate the Streamlit app. This file can be run by opening the command terminal, navigating
   to the directory containing the app.py file and running the command: 'python -m streamlit run app.py'. This will open the streamlit app in
-  your default browser. Alternatively, you can view the published version of the app at: https://diamond-price-prediction-ribhe3u8camjkywknopkn2.streamlit.app/
+  your default browser. Alternatively, you can view the published version of the app [here](https://diamond-price-prediction-ribhe3u8camjkywknopkn2.streamlit.app/)
