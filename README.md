@@ -2,7 +2,7 @@ DIAMOND PRICE PREDICTION
 By John Beckstead
 
 This is a term project for CIS 508, designed to showcase the end-to-end machine learning process.
-The goal of this project, as states by the project guidelines, is to:
+The goal of this project, as stated by the project guidelines, is to:
   1. Formulate a business problem as a machine learning task.
   2. Execute an end-to-end data mining and modeling process.
   3. Communicate your findings and business impact effectively.
